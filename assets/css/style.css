@@ -1,0 +1,127 @@
+/* Página index.html*/
+
+/*Editando menu*/
+body{
+    margin: 0;
+    font-size: 20px;
+    background-color: #ffeeff;
+ 
+}
+ ul{
+    margin-top: 0;
+    text-align: center;
+    padding: 25px;
+    background-color:#c48b9f;
+    text-shadow: #000 2px 3px 2px;
+    
+}
+#menu li {
+    
+    display: inline;
+    padding: 25px;
+}
+
+#menu li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+#menu li a:hover {
+    color: black;
+}
+/*Fim editando menu*/
+
+.center {
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.box {
+    margin:0 auto;
+    max-width: 70%;
+    width: 100%;
+
+}
+
+/*Editando fotos principal*/
+.fotop {
+    
+    display: flex;
+    justify-content: center;
+  
+}
+.fotop img{
+    width: 100%;
+    max-width: 160px;
+}
+
+/*Fim editando fotos principal*/
+
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.tm-social {
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #f8bbd0;
+    padding: 5px;
+    
+}
+
+
+/*Fim página index.html*/
+
+
+
+
+/* Estilo da página contato.html*/
+
+.center {
+    text-align: center;
+}
+
+.button{
+    background-color:white;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    border-radius: 8px;
+    t-shadow: #000 2px 3px 2px;
+}
+
+
+
+/*Icones da rede social*/
+.tm-social {
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+}
+/*Fim Icones da rede social*/
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
