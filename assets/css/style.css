@@ -33,20 +33,17 @@ body{
 }
 /*Fim editando menu*/
 
+/*Editando Texto*/
 .center {
     text-align: center;
 }
-
-.justify{
-    text-align: justify;
-}
-
 .box {
     margin:0 auto;
     max-width: 70%;
     width: 100%;
 
 }
+/*Fim Editando Texto*/
 
 /*Editando fotos principal*/
 .fotop {
@@ -105,6 +102,9 @@ body{
     font-size: large;
     border-radius: 8px;
     t-shadow: #000 2px 3px 2px;
+}
+.ml-50{
+    margin-left: 50px;
 }
 
 
