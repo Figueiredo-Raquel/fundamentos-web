@@ -95,14 +95,7 @@ body{
     text-align: center;
 }
 
-.button{
-    background-color:white;
-    padding: 10px 10px;
-    margin-bottom: 10px;
-    font-size: large;
-    border-radius: 8px;
-    t-shadow: #000 2px 3px 2px;
-}
+
 .ml-50{
     margin-left: 50px;
 }
